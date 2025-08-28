@@ -8,15 +8,15 @@ GROUP_REPOS = [
     "stack": [],
     "documentation": [],
     "sla": "",
-  },
+},
   {
-    "name": "MixedLaptops",
-    "gitLinks": ["https://github.com/MixedLaptops/oggole"],
+    "name": "CodeLab-DevOps",
+    "gitLinks": ["https://github.com/CodeLab-DevOps", " https://github.com/CodeLab-DevOps/Backend.git", "https://github.com/CodeLab-DevOps/Frontend.git" ]
     "backend": "",
     "frontend": "",
     "monitoring": "",
     "stack": [],
     "documentation": [],
     "sla": "",
-  }
+}
 ]
